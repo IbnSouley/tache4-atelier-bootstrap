@@ -1,0 +1,38 @@
+ul li{
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+}
+.soma{
+    height: 600px;
+}
+.card h3{
+    font-size: 15px;
+}
+.card p{
+    font-size: 12px;
+}
+.card button{
+    background: orangered;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid orangered;
+}
+.card button:hover{
+    background: rgba(223, 70, 15, 0.856);
+}
+.course-box ul .active{
+    border-bottom: 1px solid #000;
+}
+.card{
+    border-radius: 10px;
+}
+.card span i{
+    font-size: 5rem;
+    float: right;
+    margin: -20px 20px;
+}
+.html{
+    color: rgb(25, 94, 54);
+}
